@@ -13,7 +13,9 @@ In this tutorial you will be able to learn:
 
 ### Getting Started
 To connect, drive or code the robot Download [Sphero Edu](https://edu.sphero.com/d).<br> 
-The IDE is available for different mobile devices and desktops. The robot can be connected via bluetooth.
+The IDE is available for different mobile devices and desktops. The robot can be connected via bluetooth using Sphero edu app just like any other bluetooth devices such as speaker or smart watch.
+
+There is a great [video](https://youtu.be/D4XBH5ggq-w) to get started
 
 ### Coding the robot
 
@@ -29,4 +31,4 @@ There are three options available for coding Sphero:
 Why Async and Await?
 Sphero uses the async and await as it require to complete one task before moving to the next task. By default javaScript functions are synchronous.
 
-[Learn](https://github.com/AnkitPrakash687/sphero_tutorial/blob/master/asyncAwait.md) more about Async and Await
+Learn more about [Async and Await](https://github.com/AnkitPrakash687/sphero_tutorial/blob/master/asyncAwait.md) 
