@@ -61,11 +61,11 @@ buyCoffee()
 Async functions are functions that return promises.<br>
 That’s right. This is the reason I took the time to briefly explain Promises, because to really understand Async/Await you need to know how Promises work.
 
-To keep in mind:
-•	Async functions are declared by prepending the word async in their declaration async function doAsyncStuff() { ...code }
-•	Your code can be paused waiting for an Async Function with await
-•	await returns whatever the async function returns when it is done.
-•	await can only be used inside an async function.
+To keep in mind:<br>
+•	Async functions are declared by prepending the word async in their declaration async function doAsyncStuff() { ...code }<br>
+•	Your code can be paused waiting for an Async Function with await.<br>
+•	await returns whatever the async function returns when it is done.<br>
+•	await can only be used inside an async function.<br>
 
 ```html
 // Some random async functions that deal with value
